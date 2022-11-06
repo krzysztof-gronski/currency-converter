@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+.themeMain {
+  font-family: Arial;
+  background-color: #8d99ae;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+
+.footer {
+  color: #edf2f4;
+  padding: 3px;
+  text-align: center;
+  font: normal 14px "Arial", serif;
+  margin: 20px;
+}
